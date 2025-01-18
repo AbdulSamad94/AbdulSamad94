@@ -25,7 +25,7 @@ Hi, I'm Abdul Samad, a passionate **MERN Stack Developer** specialized in buildi
 ---
 
 **📚 Education:**  
-1st Year HHC Part 1 (Computer Science)  
+1st Year HSC Part 1 (Computer Science)  
 
 **🚀 Exploring:**  
 Agentic AI at Governor House  

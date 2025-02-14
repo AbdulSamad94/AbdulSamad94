@@ -1,6 +1,6 @@
 # Abdul Samad | MERN Stack Developer 🚀
 
-**💡 About Me: **  
+**💡 About Me:**
 
 Hi, I'm Abdul Samad, a passionate **MERN Stack Developer** specialized in building responsive and scalable web applications with modern UI. I love creating seamless user experiences using modern technologies and always strive to learn and grow in this fast-paced tech world. Currently, I'm like learning, i mean expanding my knowledge in **Agentic AI** at Governor House.  
 

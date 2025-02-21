@@ -31,4 +31,4 @@ Agentic AI at Governor House
 
 **🔗 Connect With Me:**  
 - [LinkedIn Profile](https://www.linkedin.com/in/abdul-samad-siddiqui-0183012b5/)  
-- [Portfolio Website](https://potfolio-website-nextjs.vercel.app/)
+- [Portfolio Website](https://abdulsamadsiddiqui.vercel.app/)

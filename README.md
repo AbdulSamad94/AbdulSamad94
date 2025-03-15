@@ -1,34 +1,29 @@
-# Abdul Samad Siddiqui | Full Stack Developer 🚀
+# Hi, I'm Abdul Samad Siddiqui! 👋
 
-**💡 About Me:**
+## 🚀 About Me
+I am a **MERN Stack Developer** with a strong foundation in front-end and back-end development. My expertise lies in building scalable web applications using modern technologies. I am also diving into AI-related skills and Python to expand my knowledge in emerging tech fields.
 
-Hi, I'm Abdul Samad, a passionate **Full Stack Developer** specialized in building responsive and scalable web applications with modern UI. I love creating seamless user experiences using modern technologies and always strive to learn and grow in this fast-paced tech world. Currently, I'm like learning, i mean expanding my knowledge in **Agentic AI** at Governor House.  
+## 💻 Tech Stack
+- **Front-end:** HTML, CSS, JavaScript, TypeScript, React, Next.js, TailwindCSS, Web Animation
+- **Back-end:** Node.js, Express.js, MongoDB, Mongoose
+- **Tools & Libraries:** Clerk, Sanity, ShadCN, Vercel, Git, GitHub
+- **Currently Learning:** Python, AI-related technologies
+
+## 🎯 Goals
+- Master Express.js, Node.js, and MongoDB to strengthen my back-end skills.
+- Launch successful projects and establish a strong online presence.
+- Provide for my family and retire my father, Inshallah. 🙌
+
+## 📈 Experience
+- Built and launched an **e-commerce marketplace** in a 7-day hackathon.
+- Developing an **admin dashboard** to manage firms with ShadCN's sidebar component.
+- Working on a **professional leather jacket e-commerce store** for my father.
+
+## 📫 Connect with Me
+- **GitHub:** [github.com/your-username](https://github.com/your-username)
+- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **Email:** your-email@example.com
 
 ---
 
-**🌟 Technologies I Work With:**  
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>  
-</p>
-
-
----
-
-**📚 Education:**  
-1st Year HSC Part 1 (Computer Science)  
-
-**🚀 Exploring:**  
-Agentic AI at Governor House  
-
-**🔗 Connect With Me:**  
-- [LinkedIn Profile](https://www.linkedin.com/in/abdul-samad-siddiqui-0183012b5/)  
-- [Portfolio Website](https://abdulsamadsiddiqui.vercel.app/)
+🚀 Passionate about technology and always eager to learn and grow! Let's connect and build something amazing together!

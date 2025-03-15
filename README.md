@@ -19,23 +19,22 @@ Email me : **abdulsamadwork109@gmail.com**
   <img src="https://img.icons8.com/color/60/nodejs.png" alt="Node.js"/>
   <img src="https://img.icons8.com/ios/60/express-js.png" alt="Express.js"/>
   <img src="https://img.icons8.com/color/60/mongodb.png" alt="MongoDB"/>
-  <img src="https://img.icons8.com/color/60/mongoose.png" alt="Mongoose"/>
-  <img src="https://img.icons8.com/color/60/sanity.png" alt="Sanity"/>
-  <img src="https://img.icons8.com/color/60/vercel.png" alt="Vercel"/>
   <img src="https://img.icons8.com/color/60/git.png" alt="Git"/>
 </div>
 
 ## 📫 Connect with Me
 <div>
   <a href="https://github.com/AbdulSamad94">
-    <img src="https://img.icons8.com/ios-glyphs/30/github.png" alt="GitHub"/>
+    <img src="https://img.icons8.com/ios-glyphs/60/github.png" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/abdul-samad-siddiqui-0183012b5/">
-    <img src="https://img.icons8.com/color/30/linkedin.png" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/color/60/linkedin.png" alt="LinkedIn"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=61571641116655">
-    <img src="https://img.icons8.com/color/30/facebook.png" alt="Facebook"/>
+    <img src="https://img.icons8.com/color/60/facebook.png" alt="Facebook"/>
   </a>
 </div>
+
+----
 
 🚀 Passionate about technology and always eager to learn and grow! Let's connect and build something amazing together!

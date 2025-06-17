@@ -1,9 +1,9 @@
 # Hi, I'm Abdul Samad Siddiqui! 👋
 
-## 🚀 About Me
-I am a **Full Stack Developer** with a strong foundation in front-end and back-end development. My expertise lies in building scalable web applications using modern technologies. I am also diving into Agentic AI-related skills and Python to expand my knowledge in emerging tech fields.
+## About Me
+I am a **Full Stack Developer** with a strong foundation in front-end and back-end development. My expertise lies in building scalable web applications using modern technologies. I am also learning Agentic AI to expand my knowledge in emerging tech fields.
 
-Email me : **abdulsamadwork109@gmail.com**
+Email: **abdulsamadwork109@gmail.com**
 
 ## 💻 Tech Stack
 
@@ -37,4 +37,4 @@ Email me : **abdulsamadwork109@gmail.com**
 
 ----
 
-🚀 Passionate about technology and always eager to learn and grow! Let's connect and build something amazing together!
+Passionate about technology and always eager to learn and grow! Let's connect and build something amazing together!

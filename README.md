@@ -1,8 +1,6 @@
 # Hi, I'm Abdul Samad Siddiqui! 👋
 
-I am a **Full Stack Developer** with a strong foundation in front-end and back-end development. My expertise lies in building scalable web applications using modern technologies. I am also learning Agentic AI to expand my knowledge in emerging tech fields.
-
-## 💻 Tech Stack
+## Tech Stack
 
 <div>
   <img src="https://img.icons8.com/color/60/html-5.png" alt="HTML5"/>
@@ -31,7 +29,7 @@ I am a **Full Stack Developer** with a strong foundation in front-end and back-e
 ![AbdulSamad94's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdulSamad94&theme=outrun&hide_border=false)
 
 
-## 📫 Connect with Me
+## Connect with Me
 <div>
   <a href="https://github.com/AbdulSamad94">
     <img src="https://img.icons8.com/ios-glyphs/60/github.png" alt="GitHub"/>

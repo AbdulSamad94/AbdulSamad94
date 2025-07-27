@@ -1,9 +1,6 @@
 # Hi, I'm Abdul Samad Siddiqui! 👋
 
-## About Me
 I am a **Full Stack Developer** with a strong foundation in front-end and back-end development. My expertise lies in building scalable web applications using modern technologies. I am also learning Agentic AI to expand my knowledge in emerging tech fields.
-
-Email: **abdulsamadwork109@gmail.com**
 
 ## 💻 Tech Stack
 
@@ -22,6 +19,11 @@ Email: **abdulsamadwork109@gmail.com**
   <img src="https://img.icons8.com/color/60/git.png" alt="Git"/>
 </div>
 
+
+## My Stats:
+
+![AbdulSamad94's Stats](https://github-readme-stats.vercel.app/api?username=AbdulSamad94&theme=outrun&show_icons=true&hide_border=false&count_private=true)
+
 ## 📫 Connect with Me
 <div>
   <a href="https://github.com/AbdulSamad94">
@@ -37,4 +39,3 @@ Email: **abdulsamadwork109@gmail.com**
 
 ----
 
-Passionate about technology and always eager to learn and grow! Let's connect and build something amazing together!

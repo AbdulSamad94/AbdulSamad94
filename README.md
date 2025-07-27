@@ -7,10 +7,14 @@
   <img src="https://img.icons8.com/color/60/css3.png" alt="CSS3"/>
   <img src="https://img.icons8.com/color/60/javascript.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/color/60/typescript.png" alt="TypeScript"/>
+</div>
+<div>
   <img src="https://img.icons8.com/color/60/python.png" alt="Python"/>
   <img src="https://img.icons8.com/ultraviolet/60/react.png" alt="React"/>
   <img src="https://img.icons8.com/fluency/60/nextjs.png" alt="Next.js"/>
   <img src="https://img.icons8.com/color/60/tailwindcss.png" alt="TailwindCSS"/>
+</div>
+<div>
   <img src="https://img.icons8.com/color/60/nodejs.png" alt="Node.js"/>
   <img src="https://img.icons8.com/ios/60/express-js.png" alt="Express.js"/>
   <img src="https://img.icons8.com/color/60/mongodb.png" alt="MongoDB"/>

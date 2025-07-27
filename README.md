@@ -23,8 +23,9 @@ I am a **Full Stack Developer** with a strong foundation in front-end and back-e
 ## My Stats:
 
 ![AbdulSamad94's Stats](https://github-readme-stats.vercel.app/api?username=AbdulSamad94&theme=outrun&show_icons=true&hide_border=false&count_private=true)
-![AbdulSamad94's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdulSamad94&theme=outrun&hide_border=false)
 ![AbdulSamad94's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulSamad94&theme=outrun&show_icons=true&hide_border=false&layout=compact)
+![AbdulSamad94's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdulSamad94&theme=outrun&hide_border=false)
+
 
 ## 📫 Connect with Me
 <div>

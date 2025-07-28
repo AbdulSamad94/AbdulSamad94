@@ -2,7 +2,7 @@
 
 ## Tech Stack
 
-<div>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   <img src="https://img.icons8.com/color/60/html-5.png" alt="HTML5"/>
   <img src="https://img.icons8.com/color/60/css3.png" alt="CSS3"/>
   <img src="https://img.icons8.com/color/60/javascript.png" alt="JavaScript"/>
@@ -10,7 +10,6 @@
 </div>
 <div>
   <img src="https://img.icons8.com/color/60/python.png" alt="Python"/>
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   <img src="https://img.icons8.com/fluency/60/nextjs.png" alt="Next.js"/>
   <img src="https://img.icons8.com/color/60/tailwindcss.png" alt="TailwindCSS"/>
 </div>

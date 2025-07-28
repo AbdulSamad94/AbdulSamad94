@@ -1,25 +1,33 @@
 # Hi, I'm Abdul Samad Siddiqui! 👋
 
 ## Tech Stack
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,js,ts,html,css," />
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  <img src="https://img.icons8.com/color/60/html-5.png" alt="HTML5"/>
-  <img src="https://img.icons8.com/color/60/css3.png" alt="CSS3"/>
-  <img src="https://img.icons8.com/color/60/javascript.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/60/typescript.png" alt="TypeScript"/>
-</div>
-<div>
-  <img src="https://img.icons8.com/color/60/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/fluency/60/nextjs.png" alt="Next.js"/>
-  <img src="https://img.icons8.com/color/60/tailwindcss.png" alt="TailwindCSS"/>
-</div>
-<div>
-  <img src="https://img.icons8.com/color/60/nodejs.png" alt="Node.js"/>
-  <img src="https://img.icons8.com/ios/60/express-js.png" alt="Express.js"/>
-  <img src="https://img.icons8.com/color/60/mongodb.png" alt="MongoDB"/>
-  <img src="https://img.icons8.com/color/60/git.png" alt="Git"/>
-</div>
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,fastapi,python" />
 
+### Version Control
+<img src="https://skillicons.dev/icons?i=git,github" />
+
+### IDE
+<img src="https://skillicons.dev/icons?i=vscode" />
+
+## Connect with Me
+<div>
+  <a href="https://github.com/AbdulSamad94">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/abdul-samad-siddiqui-0183012b5/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://x.com/abdulsamad77870">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://www.instagram.com/samad_d3v/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</div>
 
 ## My Stats:
 
@@ -31,19 +39,4 @@
 ## Contributions & Streak
 ![AbdulSamad94's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdulSamad94&theme=outrun&hide_border=false)
 
-
-## Connect with Me
-<div>
-  <a href="https://github.com/AbdulSamad94">
-    <img src="https://img.icons8.com/ios-glyphs/60/github.png" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/abdul-samad-siddiqui-0183012b5/">
-    <img src="https://img.icons8.com/color/60/linkedin.png" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=61571641116655">
-    <img src="https://img.icons8.com/color/60/facebook.png" alt="Facebook"/>
-  </a>
-</div>
-
-----
 

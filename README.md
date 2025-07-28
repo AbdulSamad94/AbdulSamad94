@@ -1,6 +1,6 @@
 # Hi, I'm Abdul Samad Siddiqui! 👋
 
-## Tech Stack
+### Skills
 ### Frontend
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,js,ts,html,css," />
 

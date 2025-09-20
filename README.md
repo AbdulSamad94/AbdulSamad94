@@ -1,17 +1,11 @@
 # Hi, I'm Abdul Samad Siddiqui! 👋
 
+I am a Full Stack Agentic AI Developer and a college student.  
+I’m passionate about building SaaS products, creating innovative applications, and exploring cutting-edge AI development.  
+I work on freelance projects and actively contribute to open-source communities and projects.
+
 ### Skills
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,js,ts,html,css," />
-
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python,postgres,mongodb,mysql,supabase" />
-
-### Version Control
-<img src="https://skillicons.dev/icons?i=git,github" />
-
-### IDE
-<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwindcss,ts,python,js,html,css,fastapi,nodejs,express,prisma,mongodb,postgres,mysql,supabase,git,github,vscode" />
 
 ## Connect with Me
 <div>

@@ -5,7 +5,7 @@
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,js,ts,html,css," />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python,postgres,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python,postgres,mongodb,mysql,supabase" />
 
 ### Version Control
 <img src="https://skillicons.dev/icons?i=git,github" />

@@ -5,7 +5,7 @@ I’m passionate about building SaaS products, creating innovative applications,
 I work on freelance projects and actively contribute to open-source communities and projects.
 
 ### Skills
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwindcss,ts,python,js,html,css,fastapi,nodejs,express,prisma,mongodb,postgres,mysql,supabase,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,docker,tailwindcss,ts,python,js,html,css,fastapi,nodejs,express,prisma,mongodb,postgres,mysql,supabase,git,github,vscode" />
 
 ## Connect with Me
 <div>

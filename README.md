@@ -2,7 +2,6 @@
 
 <h1>Abdul Samad Siddiqui</h1>
 <p><b>Full-Stack AI & Agentic Developer</b> &nbsp;·&nbsp; Karachi, Pakistan</p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Building+Agentic+AI+Systems;Full-Stack+Web+%26+API+Development;Shipping+to+Production+for+Real+Clients" alt="Typing SVG" />
 
 </div>
 

@@ -1,36 +1,58 @@
-# Hi, I'm Abdul Samad Siddiqui! 👋
+<div align="center">
 
-I am a Full Stack Agentic AI Developer and a college student.  
-I’m passionate about building SaaS products, creating innovative applications, and exploring cutting-edge AI development.  
-I work on freelance projects and actively contribute to open-source communities and projects.
+<h1>Abdul Samad Siddiqui</h1>
+<p><b>Full-Stack AI & Agentic Developer</b> &nbsp;·&nbsp; Karachi, Pakistan</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Building+Agentic+AI+Systems;Full-Stack+Web+%26+API+Development;Shipping+to+Production+for+Real+Clients" alt="Typing SVG" />
 
-### Skills
-<img src="https://skillicons.dev/icons?i=nextjs,react,docker,tailwindcss,ts,python,js,html,css,fastapi,nodejs,express,prisma,mongodb,postgres,mysql,supabase,git,github,vscode" />
-
-## Connect with Me
-<div>
-  <a href="https://github.com/AbdulSamad94">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/abdul-samad-siddiqui-0183012b5/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://x.com/abdulsamad77870">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-  <a href="https://www.instagram.com/samad_d3v/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
 </div>
 
-## My Stats:
+<br/>
 
-![AbdulSamad94's Stats](https://github-readme-stats.vercel.app/api?username=AbdulSamad94&theme=outrun&show_icons=true&hide_border=false&count_private=true)
+<div align="center">
 
-## Most Used Language
-![AbdulSamad94's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulSamad94&theme=outrun&show_icons=true&hide_border=false&layout=compact)
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwindcss,ts,js,html,css" />
+<img src="https://skillicons.dev/icons?i=fastapi,python,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,docker,git" />
 
-## Contributions & Streak
-![AbdulSamad94's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdulSamad94&theme=outrun&hide_border=false)
+</div>
 
+<br/>
 
+## Featured Work
+
+**[LegalyzeAI](https://legalyze-ai.vercel.app)** — Multi-agent legal document analyzer, summary generator, risks detector & clause generator. Upload any legal doc, get structured analysis powered by OpenAI Agents SDK.
+
+**[Personal AI Employee](https://github.com/AbdulSamad94/Personal-AI-Employee)** — Autonomous agent with Gmail + LinkedIn watchers, Human-in-the-Loop approval, Obsidian-style vault, and Claude reasoning loop.
+
+<br/>
+
+## Activity
+
+<div align="center">
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdulSamad94&theme=tokyonight&hide_border=true)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=AbdulSamad94&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&hide=stars)
+
+</div>
+
+<br/>
+
+## 🤝 Let's Work Together
+
+Got a project that needs AI, full-stack, or agentic systems? I build fast and ship to production.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-samad-siddiqui-0183012b5/)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0111be282ff319fcf5)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/abdulsamadgamin)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulsamadwork109@gmail.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=AbdulSamad94&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS" />
+</div>

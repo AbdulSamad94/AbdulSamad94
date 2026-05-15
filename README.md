@@ -44,7 +44,7 @@
 **Database / ORM**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![NeonDB](https://img.shields.io/badge/NeonDB-00E5BF?style=for-the-badge&logo=neon&logoColor=black)
+![NeonDB](https://img.shields.io/badge/NeonDB-000000?style=for-the-badge&logo=neon&logoColor=green)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)

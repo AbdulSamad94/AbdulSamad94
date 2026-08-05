@@ -15,8 +15,8 @@
 ![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![FlowiseAI](https://img.shields.io/badge/FlowiseAI-40B5A4?style=for-the-badge&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![OpenAI Codex](https://custom-icon-badges.demolab.com/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claudecode&logoColor=white)
+![OpenAI Codex](https://custom-icon-badges.demolab.com/badge/OpenAI_Codex-412991?style=for-the-badge&logo=codex&logoColor=white)
 
 **Vector DB / RAG**
 
